@@ -1,2 +1,3 @@
+Brief Introduction About Myself
 Hello! My name is Dawit Mokonen, and I’m currently learning Git and GitHub as part of my software development journey. I’m passionate about technology, problem-solving, and building tools that can help others.
 Outside of coding, I enjoy reading, exploring new ideas, and collaborating with others on creative projects. I’m excited to continue growing my skills and contributing to meaningful work in the tech community.
